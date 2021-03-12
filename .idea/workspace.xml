@@ -20,10 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/awx/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ansible-examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ansible-examples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_local" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_local" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playbook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/playbook.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/role.docker/tasks/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/role.docker/tasks/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory" beforeDir="false" afterPath="$PROJECT_DIR$/inventory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_children" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_children" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +61,7 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tp-afip-ansible" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/awx" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,6 +73,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projet-aston\ansible-examples\awx" />
       <recent name="D:\master-afip\ansible-examples" />
       <recent name="D:\crunchydevops\ansible\ansible-examples" />
     </key>
@@ -120,6 +123,11 @@
       <workItem from="1614920778219" duration="1306000" />
       <workItem from="1614922100293" duration="16791000" />
       <workItem from="1615190495313" duration="601000" />
+      <workItem from="1615365784909" duration="2659000" />
+      <workItem from="1615368464549" duration="12272000" />
+      <workItem from="1615449621462" duration="3387000" />
+      <workItem from="1615457058086" duration="7710000" />
+      <workItem from="1615535501556" duration="6231000" />
     </task>
     <task id="LOCAL-00001" summary="minor changes">
       <created>1591282108822</created>
